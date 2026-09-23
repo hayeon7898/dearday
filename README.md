@@ -19,26 +19,33 @@
 
 ### Tabs
 #### 1. Home Tab
-Dearday의 기본 탭으로 오늘의 질문을 확인하고, 이에 맞는 사진을 업로드할 수 있습니다.
-<p align="center">
-  <img width="180" alt="화면1" src="..." />
-  <img width="180" alt="화면2" src="..." />
-  <img width="180" alt="화면3" src="..." />
-  <img width="180" alt="화면4" src="..." />
-</p>
+Dearday의 기본 탭으로 오늘의 질문을 확인하고, 이에 맞는 사진을 업로드할 수 있습니다. 또한 원하는 질문이 있다면, 질문 전달하기 기능을 이용해 운영진에게 질문을 전달할 수 있습니다.
 
-#### 2. My Tab (✅)
-본인이 업로드한 사진들을 확인할 수 있는 탭입니다.
-<p align="center">
-  <img width="180" alt="화면1" src="..." />
-  <img width="180" alt="화면2" src="..." />
-  <img width="180" alt="화면3" src="..." />
-  <img width="180" alt="화면4" src="..." />
-</p>
+| Home 1 | Home 2 | Home 3 | Home 4|
+| :--- | :--- | :--- | :--- |
+|<img width="180" height="401.9" alt="Home1" src="https://github.com/user-attachments/assets/23aae9ee-3656-49db-93b9-8e159ac913b8" />|<img width="180" height="401.9" alt="Home2" src="https://github.com/user-attachments/assets/90053500-b82a-4da7-b2e3-09c71f8cd943" />|<img width="180" height="401.9" alt="Home3" src="https://github.com/user-attachments/assets/80e4f73f-cb7b-46a7-8eb1-0d1077bb60c0" />|<img width="180" height="401.9" alt="home4" src="https://github.com/user-attachments/assets/c8a7d7b7-3698-4770-bf88-719659660213" />|
 
 
-#### 3. Social Tab
-다른 사람들이 해당 날짜의 질문에 대해 업로드한 사진들을 확인할 수 있는 탭입니다.
+
+
+
+#### 2. My Feed Tab (✅)
+본인이 업로드한 사진들을 확인할 수 있는 탭입니다. 그리드와 질문 형태로 본인이 업로드한 사진을 확인할 수 있으며, 클릭하여 게시물을 자세히 볼 수 있습니다. 또한 본인의 프로필 수정 할 수 있습니다.
+
+| My Feed 1 | My Feed 2 | My Feed 3 | My Feed 4|
+| :--- | :--- | :--- | :--- |
+|<img width="180" height="401.9" alt="MyFeed1" src="https://github.com/user-attachments/assets/108c0d99-cff1-4399-a13d-037b0e270a38" />|<img width="180" height="401.9" alt="MyFeed2" src="https://github.com/user-attachments/assets/019b4b5e-2db4-4262-907a-c6a5ec943e3e" />|<img width="180" height="400.4" alt="MyFeed3" src="https://github.com/user-attachments/assets/dd4e48bf-7a90-4603-8c61-efc388fca9c4" />|<img width="180" height="400.4" alt="MyFeed4" src="https://github.com/user-attachments/assets/f4188415-2eb0-46dd-8a36-4125745f8d5b" />|
+
+
+
+#### 3. Social Feed Tab
+다른 사람들이 해당 날짜의 질문에 대해 업로드한 사진들을 확인할 수 있는 탭입니다. 더 나아가 마음에 드는 사진에 원하는 이모지를 선택하여 표시하거나, 이모지를 누른 사람들을 확인할 수 있습니다. 또한 마음에 드는 유저를 팔로우할 수 있습니다.
+
+| Social Feed 1 | Social Feed 2 | Social Feed 3 | Social Feed 4|
+| :--- | :--- | :--- | :--- |
+|<img width="180" height="401.9" alt="SocialFeed1" src="https://github.com/user-attachments/assets/a9e8a4cf-df27-4b92-a29d-e03a50fce8b0" />|<img width="180" height="401.9" alt="SocialFeed2" src="https://github.com/user-attachments/assets/1f6d6ce9-0de3-483c-ab82-547ae7c9938d" />|<img width="180" height="401.9" alt="SocialFeed3" src="https://github.com/user-attachments/assets/b11b44aa-ba78-4713-bc1f-6e600b9fe4b7" />|<img width="180" height="401.9" alt="SocialFeed4" src="https://github.com/user-attachments/assets/73f4e8e3-b46f-44fd-adc9-cadb14eea09b" />|
+
+
 
 ### Functional Pages (✅)
 #### 1. Onboarding 
@@ -60,7 +67,7 @@ Dearday 앱을 실행했을 때 로고 애니메이션과 함께 초기 데이�
 
 | Empty State | Notification List |Notification Settings|
 | :--- | :--- | :--- |
-|<img width="180" height="401.9" alt="알림2" src="https://github.com/user-attachments/assets/8cecb574-c70b-4b28-a0f8-815675b017f8" />|<img width="180" height="395.7" alt="알림1" src="https://github.com/user-attachments/assets/97250e82-f6a1-4244-b049-2b5f8108602d" />|<img width="180" height="393.3" alt="알림설정 (2)" src="https://github.com/user-attachments/assets/0053b835-187c-4f93-839f-1772874c368d" />||
+|<img width="180" height="401.9" alt="알림1" src="https://github.com/user-attachments/assets/8cecb574-c70b-4b28-a0f8-815675b017f8" />|<img width="180" height="395.7" alt="알림2" src="https://github.com/user-attachments/assets/97250e82-f6a1-4244-b049-2b5f8108602d" />|<img width="180" height="393.3" alt="알림3" src="https://github.com/user-attachments/assets/0053b835-187c-4f93-839f-1772874c368d" />||
 
 
 ## ⚡ Database (✅)
