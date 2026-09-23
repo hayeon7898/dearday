@@ -24,7 +24,7 @@
 
 | Home 1 | Home 2 | Home 3 | Home 4|
 | :--- | :--- | :--- | :--- |
-|<img width="180" height="401.9" alt="Home1" src="https://github.com/user-attachments/assets/23aae9ee-3656-49db-93b9-8e159ac913b8" />|<img width="180" height="401.9" alt="Home2" src="https://github.com/user-attachments/assets/90053500-b82a-4da7-b2e3-09c71f8cd943"/>|<img width="180" height="401.9" alt="Home3" src="https://github.com/user-attachments/assets/80e4f73f-cb7b-46a7-8eb1-0d1077bb60c0"/>|<img width="180" height="401.9" alt="home4" src="https://github.com/user-attachments/assets/c8a7d7b7-3698-4770-bf88-719659660213"/>|
+|<img width="180" height="401.9" alt="Home1" src="https://github.com/user-attachments/assets/23aae9ee-3656-49db-93b9-8e159ac913b8?raw=true" />|<img width="180" height="401.9" alt="Home2" src="https://github.com/user-attachments/assets/90053500-b82a-4da7-b2e3-09c71f8cd943?raw=true"/>|<img width="180" height="401.9" alt="Home3" src="https://github.com/user-attachments/assets/80e4f73f-cb7b-46a7-8eb1-0d1077bb60c0?raw=true"/>|<img width="180" height="401.9" alt="home4" src="https://github.com/user-attachments/assets/c8a7d7b7-3698-4770-bf88-719659660213?raw=true"/>|
 
 
 
