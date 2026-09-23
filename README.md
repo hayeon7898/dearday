@@ -30,7 +30,10 @@ Dearday의 기본 탭으로 오늘의 질문을 확인하고, 이에 맞는 사�
 
 
 #### 2. My Feed Tab (✅)
-본인이 업로드한 사진들을 확인할 수 있는 탭입니다. 그리드와 질문 형태로 본인이 업로드한 사진을 확인할 수 있으며, 클릭하여 게시물을 자세히 볼 수 있습니다. 또한 본인의 프로필 수정 할 수 있습니다.
+- [MyFeed-Issue](https://github.com/Veloci-Lab/dearday/issues/61)
+- 본인이 업로드한 사진들을 확인할 수 있는 탭입니다.
+- 그리드와 질문 형태로 본인이 업로드한 사진을 확인할 수 있으며, 클릭하여 게시물을 자세히 볼 수 있습니다.
+- 또한 본인의 프로필 수정 할 수 있습니다.
 
 | My Feed 1 | My Feed 2 | My Feed 3 | My Feed 4|
 | :--- | :--- | :--- | :--- |
@@ -49,21 +52,27 @@ Dearday의 기본 탭으로 오늘의 질문을 확인하고, 이에 맞는 사�
 
 ### Functional Pages (✅)
 #### 1. Onboarding 
-Dearday에 회원가입하는 과정입니다.
+- [Onboarding-Issue](https://github.com/Veloci-Lab/dearday/issues/57)
+- Dearday에 회원가입하는 과정입니다.
+  
 | Onboarding 1 | Onboarding 2 | Onboarding 3 | Onboarding 4|
 | :--- | :--- | :--- | :--- |
 |<img width="180" height="401.9" alt="Onboarding1" src="https://github.com/user-attachments/assets/30832a9e-41e0-48cd-ac10-57d8a3984c8f" />|<img width="180" height="401.9" alt="Onboarding2" src="https://github.com/user-attachments/assets/6fda43b9-e67d-4c6a-b909-eb0616b06a45" />|<img width="180" height="401.9" alt="Onboarding3" src="https://github.com/user-attachments/assets/0aacdcb7-b701-48c6-813d-9735e64ab9d0" />|<img width="180" height="397.6" alt="Onboarding4" src="https://github.com/user-attachments/assets/bd3bda65-3475-445a-8907-032235acd03d" />|
 
 
 #### 2. Loading
-Dearday 앱을 실행했을 때 로고 애니메이션과 함께 초기 데이터를 로딩하는 화면입니다.
+- [Loading-Issue](https://github.com/Veloci-Lab/dearday/issues/72)
+- Dearday 앱을 실행했을 때 로고 애니메이션과 함께 초기 데이터를 로딩하는 화면입니다.
+
 | Loading 1 | Loading 2 | Loading 3 | Loading 4|
 | :--- | :--- | :--- | :--- |
 |<img width="180" height="410.9" alt="Splash1" src="https://github.com/user-attachments/assets/600e708b-98eb-4e5d-830d-8cffa094b507" />|<img width="180" height="401.9" alt="Splash2" src="https://github.com/user-attachments/assets/20df2fa6-6da8-4e86-ac86-bf93aecc53f2" />|<img width="180" height="401.9" alt="Splash3" src="https://github.com/user-attachments/assets/a52fe837-aa99-455f-8d6e-3ce0e4fb06c9" />|<img width="180" height="401.9" alt="Splash4" src="https://github.com/user-attachments/assets/09a7d913-12b6-44ea-a79c-3d804c2c0d02" />|
 
 
 #### 3. Notification
-내 사진에 대한 좋아요, 새로운 팔로워, 매일 기록 리마인드 알림을 한곳에서 확인할 수 있는 화면입니다. 그리고 환경설정 > 알림설정 탭에서 이와 관련된 설정을 수정할 수 있습니다.
+- [Notification-Issue](https://github.com/Veloci-Lab/dearday/issues/48)
+- 내 사진에 대한 좋아요, 새로운 팔로워, 매일 기록 리마인드 알림을 한곳에서 확인할 수 있는 화면입니다.
+- 그리고 환경설정 > 알림설정 탭에서 이와 관련된 설정을 수정할 수 있습니다.
 
 | Empty State | Notification List |Notification Settings|
 | :--- | :--- | :--- |
