@@ -79,7 +79,7 @@
 
 | Empty State | Notification List |Notification Settings|
 | :--- | :--- | :--- |
-|<img width="180" height="401.9" alt="알림1" src="https://github.com/user-attachments/assets/8cecb574-c70b-4b28-a0f8-815675b017f8" />|<img width="180" height="395.7" alt="알림2" src="https://github.com/user-attachments/assets/97250e82-f6a1-4244-b049-2b5f8108602d" />|<img width="180" height="393.3" alt="알림3" src="https://github.com/user-attachments/assets/0053b835-187c-4f93-839f-1772874c368d" />|
+|<img width="180" height="401.9" alt="알림1" src="https://github.com/user-attachments/assets/8cecb574-c70b-4b28-a0f8-815675b017f8" />|<img width="180" height="395.7" alt="알림2" src="https://github.com/user-attachments/assets/97250e82-f6a1-4244-b049-2b5f8108602d" />|<img width="180" height="393.3" alt="알림3" src="https://github.com/user-attachments/assets/83ba5984-0368-4936-bfbf-4c5bf8953a4f" />|
 
 
 ## ⚡ Database (✅)
