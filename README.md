@@ -1,50 +1,62 @@
-# Welcome to your Expo app 👋
+<img width="390" height="171" alt="Splash4" src="https://github.com/user-attachments/assets/6e8f69aa-ff46-423b-be33-72f88ba93d50" />
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+<img width="1920" height="975" alt="background" src="https://github.com/user-attachments/assets/56cb99ab-0ff1-43c1-b8d3-862c72e5c763" />
+<img width="1920" height="960" alt="target" src="https://github.com/user-attachments/assets/f796ca0d-2829-43af-b2a4-265682bda6bc" />
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+## 📌 About Project
 
-2. Start the app
+- 고려대학교 크림슨창원지업단 활동 (🏆우수동아리 선정) <img width="19.2" height="25.8" alt="korea-logo" src="https://github.com/user-attachments/assets/b29e9d4b-fff7-41eb-928e-9321dd35a557" />
+- 2025.09 ~ 2026.02
+- PM(1) · Designer(2) · Developer(4) · Marketer(1)
 
-   ```bash
-   npx expo start
-   ```
+## 🎨 FE Core Features
 
-In the output, you'll find options to open the app in a
+## ⚡ Database
+<img width="2977" height="1418" alt="database" src="https://github.com/user-attachments/assets/24eacc4d-f4ae-487c-8560-b29b3d9a92a9" />
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠 Tech Stack
 
-## Get a fresh project
+<img width="1857" height="963" alt="FE" src="https://github.com/user-attachments/assets/8153500e-9b9f-4d5b-9c99-45e786fbe3b0" />
 
-When you're ready, run:
 
-```bash
-npm run reset-project
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+
+| Type<img width="80" height="0" /> | Tech Stack<img width="620" height="0" />|
+| --- | --- |
+| **Frontend** | ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Fronend State** | ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat) ![AsyncStorage](https://img.shields.io/badge/AsyncStorage-61DAFB?style=flat&logo=react&logoColor=black) |
+| **Backend** | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Edge Functions](https://img.shields.io/badge/Edge_Functions-3FCF8E?style=flat&logo=deno&logoColor=white) |
+| **Deploy** | ![EAS](https://img.shields.io/badge/EAS_Build-000020?style=flat&logo=expo&logoColor=white) ![OTA](https://img.shields.io/badge/OTA_Update-000020?style=flat&logo=expo&logoColor=white) |
+
+## 📂 File Structure
+
+```
+📦 project
+├── app/                    # Expo Router 기반 화면 (file based routing)
+│   └── (tabs)/             # 하단 tap의 navigation
+│       ├── onboarding/     # 온보딩 화면
+│       ├── today/          # 오늘의 기록 메인 화면
+│       ├── compose/        # 기록 작성 화면
+│       ├── day/            # 날짜별 기록 상세 화면
+│       └── mypage/         # 마이페이지 / 설정 화면
+|
+├── component/              # 재사용 UI components
+├── assets/                 # 이미지, 폰트 등 정적 리소스
+├── utils/                  # 공통 util functions
+|
+└── supabase/
+    └── functions/          # Supabase Edge Functions 
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## 🚀 Get Started
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+```bash
+npm install
+npx expo start
+```
