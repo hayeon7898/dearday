@@ -4,19 +4,21 @@
 <img width="1920" height="975" alt="background" src="https://github.com/user-attachments/assets/56cb99ab-0ff1-43c1-b8d3-862c72e5c763" />
 <img width="1920" height="960" alt="target" src="https://github.com/user-attachments/assets/f796ca0d-2829-43af-b2a4-265682bda6bc" />
 
-
+---
 ## 📌 About Project
 
 - 고려대학교 크림슨창원지업단 활동 (🏆우수동아리 선정) <img width="19.2" height="25.8" alt="korea-logo" src="https://github.com/user-attachments/assets/b29e9d4b-fff7-41eb-928e-9321dd35a557" />
 - 2025.09 ~ 2026.02
 - PM(1) · Designer(2) · Developer(4) · Marketer(1)
 
+---
+
 ## 🎨 FE Core Features
 
 ## ⚡ Database
 <img width="2977" height="1418" alt="database" src="https://github.com/user-attachments/assets/24eacc4d-f4ae-487c-8560-b29b3d9a92a9" />
 
-
+---
 ## 🛠 Tech Stack
 
 <img width="1857" height="963" alt="FE" src="https://github.com/user-attachments/assets/8153500e-9b9f-4d5b-9c99-45e786fbe3b0" />
@@ -34,6 +36,7 @@
 | **Backend** | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Edge Functions](https://img.shields.io/badge/Edge_Functions-3FCF8E?style=flat&logo=deno&logoColor=white) |
 | **Deploy** | ![EAS](https://img.shields.io/badge/EAS_Build-000020?style=flat&logo=expo&logoColor=white) ![OTA](https://img.shields.io/badge/OTA_Update-000020?style=flat&logo=expo&logoColor=white) |
 
+---
 ## 📂 File Structure
 
 ```
@@ -53,7 +56,7 @@
 └── supabase/
     └── functions/          # Supabase Edge Functions 
 ```
-
+---
 ## 🚀 Get Started
 
 ```bash
