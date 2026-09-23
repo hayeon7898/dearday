@@ -23,7 +23,7 @@ Dearday의 기본 탭으로 오늘의 질문을 확인하고, 이에 맞는 사�
 
 | Home 1 | Home 2 | Home 3 | Home 4|
 | :--- | :--- | :--- | :--- |
-|<img width="180" height="401.9" alt="Home1" src="https://github.com/user-attachments/assets/23aae9ee-3656-49db-93b9-8e159ac913b8" />|<img width="180" height="401.9" alt="Home2" src="https://github.com/user-attachments/assets/90053500-b82a-4da7-b2e3-09c71f8cd943" />|<img width="180" height="401.9" alt="Home3" src="https://github.com/user-attachments/assets/80e4f73f-cb7b-46a7-8eb1-0d1077bb60c0" />|<img width="180" height="401.9" alt="home4" src="https://github.com/user-attachments/assets/c8a7d7b7-3698-4770-bf88-719659660213" />|
+|<img width="180" height="401.9" alt="Home1" src="https://github.com/user-attachments/assets/23aae9ee-3656-49db-93b9-8e159ac913b8" />|<img width="180" height="401.9" alt="Home2" src="https://github.com/user-attachments/assets/90053500-b82a-4da7-b2e3-09c71f8cd943"/>|<img width="180" height="401.9" alt="Home3" src="https://github.com/user-attachments/assets/80e4f73f-cb7b-46a7-8eb1-0d1077bb60c0"/>|<img width="180" height="401.9" alt="home4" src="https://github.com/user-attachments/assets/c8a7d7b7-3698-4770-bf88-719659660213"/>|
 
 
 
@@ -67,7 +67,7 @@ Dearday 앱을 실행했을 때 로고 애니메이션과 함께 초기 데이�
 
 | Empty State | Notification List |Notification Settings|
 | :--- | :--- | :--- |
-|<img width="180" height="401.9" alt="알림1" src="https://github.com/user-attachments/assets/8cecb574-c70b-4b28-a0f8-815675b017f8" />|<img width="180" height="395.7" alt="알림2" src="https://github.com/user-attachments/assets/97250e82-f6a1-4244-b049-2b5f8108602d" />|<img width="180" height="393.3" alt="알림3" src="https://github.com/user-attachments/assets/0053b835-187c-4f93-839f-1772874c368d" />||
+|<img width="180" height="401.9" alt="알림1" src="https://github.com/user-attachments/assets/8cecb574-c70b-4b28-a0f8-815675b017f8" />|<img width="180" height="395.7" alt="알림2" src="https://github.com/user-attachments/assets/97250e82-f6a1-4244-b049-2b5f8108602d" />|<img width="180" height="393.3" alt="알림3" src="https://github.com/user-attachments/assets/0053b835-187c-4f93-839f-1772874c368d" />|
 
 
 ## ⚡ Database (✅)
